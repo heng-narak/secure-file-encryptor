@@ -24,3 +24,15 @@ A Python-based tool for secure file encryption and decryption using AES-256-GCM.
 - Python 3.10 or higher
 - Git
 
+## Note: (Optional but recommend)
+Use python vitual enviroment for safety or else it might decrypt your whole computer's files.
+# Create a virtual environment
+- python3 -m venv venv
+
+# Activate it
+# On macOS/Linux:
+- source venv/bin/activate
+# On Windows:
+- venv\Scripts\activate
+
+# You should see (venv) at the beginning of your terminal line
