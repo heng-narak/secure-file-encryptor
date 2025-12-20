@@ -1,1 +1,5 @@
 cryptography>=42.0.0
+click>=8.0.0  # Optional: nicer CLI than argparse
+pytest>=7.0.0  # For testing
+cryptography>=42.0.0
+# Tkinter is usually included with Python, no need to install
